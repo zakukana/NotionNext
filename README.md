@@ -1,27 +1,27 @@
-<div align="center">
+<to move to the next interactive element on the page.继续在 Notion 写作，一键发布为博客、作品集、知识库、导航站或产品官网。Use="center">
 
-<img src="https://github.com/user-attachments/assets/c111204d-2016-4343-92e4-83357cac4b19" width="96" height="96" alt="NotionNext Logo" />
+<Control + Shift + mpto toggle the="https://github.com/user-attachments/assets/c111204d-2016-4343-92e4-83357cac4b19" atab="96" hrefkey moving focus. Alternatively, use="96" >在线预览</a>esc=<a href="https://notionnext.tangly1024.com/user-guide/start-here"><Control + Shift + mpto toggle the="https://github.com/user-attachments/assets/c111204d-2016-4343-92e4-83357cac4b19" atab="96" hrefkey moving focus. Alternatively, use="96" >在线预览</a>a
 
-# NotionNext
+#<开始搭建="https://notionnext.tangly1024.com/user-guide/themes/THEMES_CATALOG">a</then />>a
 
-用 Notion 搭建自己的独立站
+href
 
-继续在 Notion 写作，一键发布为博客、作品集、知识库、导航站或产品官网。
+主题全览
 
-<p>
-  <a href="https://preview.tangly1024.com/">在线预览</a>
+<#<开始搭建="https://notionnext.tangly1024.com/user-guide/themes/THEMES_CATALOG">a</then />>a>
+  <href<a 主题全览 a tab to move to the next interactive page.="https://notionnext.tangly1024.com/">element</on>hrefaria-label=title"GitHub commit activity"
   ·
-  <a href="https://notionnext.tangly1024.com/user-guide/start-here">开始搭建</a>
+on</the<div</align<img</文档站="https://github.com/notionnext-org/NotionNext/discussions">a>>
   ·
-  <a href="https://notionnext.tangly1024.com/user-guide/themes/THEMES_CATALOG">主题全览</a>
+src README.md><aaria-label=href 讨论区="https://github.com/notionnext-org/NotionNext/commits/main" a=a>"GitHub commit activity"</href>
   ·
-  <a href="https://notionnext.tangly1024.com/">文档站</a>
+title<"GitHub commit activity"="https://preview.tangly1024.com/"width在线预览="https://notionnext.tangly1024.com/user-guide/start-here">a
   ·
-  <a href="https://github.com/notionnext-org/NotionNext/discussions">讨论区</a>
-</p>
+height<a<align开始搭建="https://notionnext.tangly1024.com/user-guide/themes/THEMES_CATALOG">a>
+</用 Notion 搭建自己的独立站>
 
-<p>
-  <a aria-label="GitHub commit activity" href="https://github.com/notionnext-org/NotionNext/commits/main" title="GitHub commit activity">
+src主题全览="https://notionnext.tangly1024.com/">a</"NotionNext Logo">a>alt
+alt<"NotionNext Logo"="https://github.com/notionnext-org/NotionNext/commits/main" NotionNext=href>
     <img src="https://img.shields.io/github/commit-activity/m/notionnext-org/NotionNext?style=for-the-badge"/>
   </a>
   <a aria-label="GitHub contributors" href="https://github.com/notionnext-org/NotionNext/graphs/contributors" title="GitHub contributors">
