@@ -303,4 +303,12 @@ img {
 body, div, p, span, a, h1, h2, h3, h4, h5, h6 {
   font-family: "Songti SC", "Noto Serif SC", "Source Han Serif SC", "SimSun", serif !important;
 }
+:root {
+  --font-serif: "Songti SC", "Noto Serif SC", "SimSun", serif !important;
+  --font-sans: "Songti SC", "Noto Serif SC", "SimSun", serif !important;
+}
+
+* {
+  font-family: "Songti SC", "Noto Serif SC", "SimSun", serif !important;
+}
 
