@@ -2215,3 +2215,6 @@ html.dark .notion-link-mention-provider {
 html.dark .notion-link-mention-link {
   color: inherit;
 }
+html, body, div, p, span, a, h1, h2, h3, h4, h5, h6, article, section {
+  font-family: "Songti SC", "Noto Serif SC", "SimSun", serif !important;
+}
