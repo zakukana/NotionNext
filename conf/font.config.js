@@ -54,8 +54,9 @@ module.exports = {
     '"Apple Color Emoji"'
   ],
   FONT_AWESOME:
-    process.env.NEXT_PUBLIC_FONT_AWESOME_PATH ||
-    '/vendor/fontawesome/css/all.min.css'
+  process.env.NEXT_PUBLIC_FONT_AWESOME_PATH ||
+  'https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/css/all.min.css'
+
 
   // END ************网站字体*****************
 }
