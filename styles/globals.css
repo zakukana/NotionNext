@@ -299,3 +299,8 @@ img {
   @keyframes l1 {
   0% {background-position: right}
 }
+/* 强行替换全站字体（衬线体/宋体风格） */
+body, div, p, span, a, h1, h2, h3, h4, h5, h6 {
+  font-family: "Songti SC", "Noto Serif SC", "Source Han Serif SC", "SimSun", serif !important;
+}
+
