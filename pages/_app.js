@@ -1,4 +1,5 @@
 // import '@/styles/animate.css' // @see https://animate.style/
+import '@fortawesome/fontawesome-free/css/all.min.css'
 import '@/styles/globals.css'
 import '@/styles/utility-patterns.css'
 
