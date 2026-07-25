@@ -30,7 +30,7 @@ export const MenuList = ({ customNav, customMenu }) => {
 
   let links = [
     {
-      icon: 'fas fa-archive',
+      icon: 'ri-archive-line',
       name: locale.NAV.ARCHIVE,
       href: '/archive',
       show: siteConfig('TYPOGRAPHY_MENU_ARCHIVE', null, CONFIG)
